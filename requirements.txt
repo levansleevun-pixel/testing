@@ -1,0 +1,5 @@
+requests>=2.28
+beautifulsoup4>=4.12
+Pillow>=10.0
+# TTS: requires espeak-ng system package (apt install espeak-ng)
+# Video: requires ffmpeg system package (apt install ffmpeg)
